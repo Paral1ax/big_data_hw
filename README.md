@@ -157,14 +157,6 @@ nano hive-site.xml
    </property>
 </configuration>
 ```
-Отредактируем файл .profile в Hive
-``` bash
-nano ~/.profile
-```
-Активируем окружение
-``` bash
-source ~/.profile
-```
 Инициализируем Hive
 ``` bash
 cd ../
