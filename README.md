@@ -3,4 +3,4 @@
 ```
 def init_code():
   pass
-``` привет
+```
