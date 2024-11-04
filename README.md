@@ -58,6 +58,8 @@ ALTER DATABASE metastore OWNER TO hive;
 выход из консоли и из пользователя на Name node
 ```
 \q
+```
+``` bash
 exit
 ```
 Правим конфиг постгреса
@@ -101,7 +103,7 @@ sudo apt install postgresql-client-16
 ```
 Подключимся к бд
 ```
-psql -h team-19-nn -p 5432 -U hive -W -d metastore
+psql -h team-11-nn -p 5432 -U hive -W -d metastore
 ```
 Выходим из консоли
 ```
