@@ -1,3 +1,6 @@
 # Установка Apache HIVE
 
-> привет
+```
+def init_code():
+  pass
+``` привет
